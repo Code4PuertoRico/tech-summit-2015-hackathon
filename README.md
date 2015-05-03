@@ -1,23 +1,27 @@
 # Tech Summit 2015 Hackathon Rules & Tracks
 
+## General Rules
+
 The Tech Summit 2015 Hackathon promotes the design, development and prototyping of civic and business ideas.
 
 We encourage all projects to consider government (at all levels), citizens and civic organizations as their user/market base.
 
 All projects are encouraged to use software or hardware to design, develop or implement their prototypes and ideas.
 
-All project's code, design, schematics and documentation must be forked by the Commonwealth of Puerto Rico Github account.  Each project must select an OSI approved open source license to participate at the Tech Summit.  If a project does not specify a particular open source license, the MIT license will be assumed by default.  Projects failing to be forked or that specify a non open source license will not be able to present a demo or compete for any categories or prizes at the Tech Summit.
+All project's code, design, schematics and documentation must be forked by the Commonwealth of Puerto Rico Github account.  Each project must select an approved open source license to participate at the Tech Summit.  If a project does not specify a particular open source license, the MIT license will be assumed by default.  Projects failing to be forked or that specify a non open source license will not be able to present a demo or compete for any categories or prizes at the Tech Summit.
+
+## Hackathon Tracks
 
 Projects and challenges are encouraged to be created with the following tracks and guidelines:
 
-## Data Hack
+### Data Hack
 
 - Includes projects based on data gathering, visualization or a creative use of an existing dataset.
 - The use of datasets from Data.PR.gov is encouraged but not enforced.
 - Existing open datasets from municipal, state or federal government is permitted if used in a relevant context for Puerto Rico.
 - Projects that provide mechanisms for gathering or collecting data that is not currently open will be considered under this category.
 
-## Maker Hack
+### Maker Hack
 
 - Includes projects that integrate open hardware and/or 3D printing tools or technics.
 - The use of any open hardware platform is permitted.
@@ -25,25 +29,25 @@ Projects and challenges are encouraged to be created with the following tracks a
 - Design, schematics and source code for your application, hardware or 3D print must be pushed in the project's repository.
 - Projects must be original.
 
-## Innovative Hack
+### Innovative Hack
 
 - Includes any technology project that includes software, either web or mobile.
 - Participants are encouraged to give a business twist to their projects, but this is not required.
 - Projects that use open data, hardware or 3D printing, but are considered innovative enough by the Hackathon Evaluation Panel, may be considered under this category.  Rules defined for the Data Hack and Maker Hack also apply to projects under the Innovative Hack.
 
-# Hackathon Evaluation Panel
+## Hackathon Evaluation Panel
 
 The _Hackathon Evaluation Panel_ consist of members designated by the Tech Summit 2015 Hackathon organizers that will evaluate projects for compliance with the event rules and guidelines.  Any decisions taken by the _Hackathon Evaluation Panel_ in regard to a project compliance are considered final and binding.
 
 The _Hackathon Evaluation Panel_ will be composed of 4 members, which will be announced before the Hackathon event begins.
 
-# Hackathon Judging Panel
+## Hackathon Judging Panel
 
 The _Hackathon Judging Panel_ consist of speakers and guests invited to participate at the Tech Summit 2015.
 
 Members and composition of the _Hackathon Judging Panel_ will be announced before the demo session begins.
 
-# FAQ
+## FAQ
 
 - **Must I bring my laptop?**
 
@@ -95,6 +99,29 @@ Members and composition of the _Hackathon Judging Panel_ will be announced befor
 
   We may have a few, but you should bring your own hardware if considering the _Makers Hack_.
 
+- **Must I use an open source license for my project?**
+
+  As stated in the Tech Summit 2015 Hackathon General Rules, in order for a project to participate in the demo or compete for any categories or prices it must have an approved open source license.
+
+  We suggest the following licenses for your projects:
+
+  - [**MIT License**](http://choosealicense.com/licenses/mit/)  
+  `If you want a simple and permisive license`
+  - [**Apache License**](http://choosealicense.com/licenses/apache-2.0/)  
+  `If you are concerned about patents`
+  - [**GPL 2.0 License**](http://choosealicense.com/licenses/gpl-2.0/) **/** [**GPL 3.0 License**](http://choosealicense.com/licenses/gpl-3.0/)  
+  `If you care about sharing improvements`
+
+  For more information about open source licenses, we recommend the following resources:
+
+  - **Github's _Choose a License Guide_** » http://choosealicense.com/
+  - **Open Source Initiative** » http://opensource.org/licenses/
+
+
+- **What if I don't want to use an open source license for my project?**
+
+  No worries, but your project will not be elegible to for the demo session nor be elegible to participate in any categories or prizes.
+
 - **How can I register for the Tech Summit Hackathon?**
 
   _**The only way to register for the Tech Summit 2015 Hackathon is via [EventBrite](https://www.eventbrite.com/e/tech-summit-2015-innovation-driven-hub-tickets-15734340837).**_
@@ -113,7 +140,7 @@ Members and composition of the _Hackathon Judging Panel_ will be announced befor
 
 - **Must I pay in order to participate in the Hackathon?**
 
-  _**No.  Participation in the Tech Summit 2015 Hackathon is FREE.  Seats are limited.**_
+  _**No.  Participation in the Tech Summit 2015 Hackathon is FREE.  Seats are limited and registration is required.**_
 
 - **Is there going to be lunch or snacks for the hackers?**
 
@@ -121,7 +148,7 @@ Members and composition of the _Hackathon Judging Panel_ will be announced befor
 
   EventBrite registration is required in order to guarantee seats, internet service and lunch for all participants.
 
-- **Can I get to the keynote sessions with the Hackathon pass?**
+- **Can I enter the keynote sessions with the Hackathon pass?**
 
   _**No.  The Hackathon Pass only gives access to the Hackathon event.**_
 
