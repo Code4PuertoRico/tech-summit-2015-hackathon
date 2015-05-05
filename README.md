@@ -125,7 +125,9 @@ The Prizing Ceremony for the Tech Summit 2015 Hackathon will take place at a dif
 
   We truly believe that Government should [_Default to Open_](https://playbook.cio.gov/#play13), so we set the example.
 
-  Openness has many benefits, not only for you, but for the technology ecosystem and communities in Puerto Rico.  It allows for collaboration, and enables citizens, entrepreneurs, nonprofits, and government to easily contribute and reuse technology.  Many projects and companies have [opted for openness](https://github.com/explore).
+  Openness has many benefits, not only for you, but for the technology ecosystem and communities in Puerto Rico.  It allows for collaboration, and enables citizens, entrepreneurs, nonprofits, and government to easily contribute and reuse technology.
+
+  Many projects and companies have [opted for openness](https://github.com/explore).
 
 ### What if I don't want to use an open source license for my project?
 
