@@ -49,7 +49,7 @@ The _Hackathon Judging Panel_ will evaluate the projects and decide which is the
 
 The _Hackathon Judging Panel_ will be composed of a Community Representative, a Government Representative and a Tech Summit 2015 Speaker.
 
-The Prizing Ceremony for the Tech Summit 2015 Hackathon will take place at a different date and venue.  Details on the final date and location will be properly announced via email, social networks and Challenge Post.  Don't worry, you won't miss it!
+The Prizing Ceremony for the Tech Summit 2015 Hackathon will take place at a different date and venue.  Details on the final date and location will be properly announced via email, social networks and Challenge Post.
 
 ## FAQ
 
