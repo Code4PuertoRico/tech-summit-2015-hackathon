@@ -123,7 +123,7 @@ Members and composition of the _Hackathon Judging Panel_ will be announced befor
 
   We truly believe that Government should [_Default to Open_](https://playbook.cio.gov/#play13), so we set the example.
 
-  Openness has many benefits, not only for you, but for the technology ecosystem and communities in Puerto Rico.  It allows for collaboration, and enables citizens, entrepreneurs, nonprofits, and government to easily contribute and reuse technology.  We should all be part of that change!
+  Openness has many benefits, not only for you, but for the technology ecosystem and communities in Puerto Rico.  It allows for collaboration, and enables citizens, entrepreneurs, nonprofits, and government to easily contribute and reuse technology.  Many projects and companies have [opted for openness](https://github.com/explore).
 
 ### What if I don't want to use an open source license for my project?
 
@@ -155,7 +155,7 @@ Members and composition of the _Hackathon Judging Panel_ will be announced befor
 
   EventBrite registration is required in order to guarantee seats, internet service and lunch for all participants.
 
-### Can I enter the keynote sessions with the Hackathon pass?
+### Can I enter the Plenary Session with the Hackathon pass?
 
   _**No.  The Hackathon Pass only gives access to the Hackathon event.**_
 
