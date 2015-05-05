@@ -51,19 +51,19 @@ Members and composition of the _Hackathon Judging Panel_ will be announced befor
 
 ## FAQ
 
-- **Must I bring my laptop?**
+### Must I bring my laptop?
 
   Every participant must bring it's own laptop to the event.  Feel free to use the operating system and tools that better suits you.
 
   _**Be warned, if you don't bring your laptop you may not be allowed to participate.**_
 
-- **Must I use a particular programming language, software or platform?**
+### Must I use a particular programming language, software or platform?
 
   No.  Use the operating system, programming language, software, tools and platforms that better suits you, your team and your project.
 
   _**The only requirement for participants is to have a Github account in order to push their code, designs or schematics.**_
 
-- **Will I get help during the Hackathon?**
+### Will I get help during the Hackathon?
 
   We will have mentors and staff assisting during the hackathon, but don't expect them to teach you how to program, use git or install any software during the event.
 
@@ -71,7 +71,7 @@ Members and composition of the _Hackathon Judging Panel_ will be announced befor
 
   We kindly invite you to the _Hackers Preparation event_ that will occur a few days before the Tech Summit in order to clarify any technical issues, create your Github account and make sure your computer is properly setup.
 
-- **Don't know Git, how to use Github or don't have an account, can you help me?**
+### Don't know Git, how to use Github or don't have an account, can you help me?
 
   It is very important that you (or at least someone in your team) have a Github account in order to push your project's code, design or schematics.
 
@@ -79,7 +79,7 @@ Members and composition of the _Hackathon Judging Panel_ will be announced befor
 
   We also suggest that you participate in the _Hackers Preparation Event_ that will occur a few days before the Tech Summit in order to setup Git and create your Github account.
 
-- **Don't know how to use Data.PR.gov, can you teach me?**
+### Don't know how to use Data.PR.gov, can you teach me?
 
   Data.PR.gov is the open data platform used by the Commonwealth of Puerto Rico in order to publish and maintain its open data efforts.
 
@@ -87,21 +87,21 @@ Members and composition of the _Hackathon Judging Panel_ will be announced befor
 
   We also suggest that you participate in the _Hackers Preparation Event_ that will occur a few days before the Tech Summit in order to learn the Data.PR.gov fundamentals from one of our mentors.
 
-- **Is there going to be a Hackers Preparation event?**
+### Is there going to be a Hackers Preparation event?
 
   Yes.  There will be a _Hackers Preparation event_ that will occur a few days before the Tech Summit.
 
   This will be the event where you can get help installing Git, setting up your computer, creating your Github account, playing with Data.PR.gov, and with any other technical issues.
 
-- **Are there going to be any 3D printers available?**
+### Are there going to be any 3D printers available?
 
   Yes.  There will be a very limited amount of 3D printers.  Consider printers availability and the time that your project may take to print when deciding your project idea and scope.
 
-- **Are there going to be any Arduinos, Raspberry Pi, or any hardware available?**
+### Are there going to be any Arduinos, Raspberry Pi, or any hardware available?
 
   We may have a few, but you should bring your own hardware if considering the _Makers Hack_.
 
-- **Must I use an open source license for my project?**
+### Must I use an open source license for my project?
 
   As stated in the Tech Summit 2015 Hackathon General Rules, in order for a project to participate in the demo or compete for any categories or prices it must have an approved open source license.
 
@@ -120,37 +120,37 @@ Members and composition of the _Hackathon Judging Panel_ will be announced befor
   - **Open Source Initiative** » http://opensource.org/licenses/
 
 
-- **What if I don't want to use an open source license for my project?**
+### What if I don't want to use an open source license for my project?
 
   No worries, but your project will not be elegible to for the demo session nor be elegible to participate in any categories or prizes.
 
-- **How can I register for the Tech Summit Hackathon?**
+### How can I register for the Tech Summit Hackathon?
 
   _**The only way to register for the Tech Summit 2015 Hackathon is via [EventBrite](https://www.eventbrite.com/e/tech-summit-2015-innovation-driven-hub-tickets-15734340837).**_
 
   EventBrite registration is required in order to guarantee seats, internet service and lunch for all participants.
 
-- **Can I participate in the Tech Summit Hackathon if not registered via EventBrite?**
+### Can I participate in the Tech Summit Hackathon if not registered via EventBrite?
 
   _**No.**_  EventBrite registration is required in order to guarantee seats, internet service and lunch for all participants.
 
-- **Can I participate in the Tech Summit Hackathon if I only registered in Hacker League?**
+### Can I participate in the Tech Summit Hackathon if I only registered in Hacker League?
 
   _**No.**_  EventBrite registration is required in order to guarantee seats, internet service and lunch for all participants.
 
   Participants are required to have a HackerLeague account in order to accept the hackathon rules and guidelines.  Projects and teams must be defined in the event's HackerLeague page.
 
-- **Must I pay in order to participate in the Hackathon?**
+### Must I pay in order to participate in the Hackathon?
 
   _**No.  Participation in the Tech Summit 2015 Hackathon is FREE.  Seats are limited and registration is required.**_
 
-- **Is there going to be lunch or snacks for the hackers?**
+### Is there going to be lunch or snacks for the hackers?
 
   _**Yes.**_  Snacks and lunch will be available for all registered hackers, thanks to the Tech Summit 2015 sponsors.
 
   EventBrite registration is required in order to guarantee seats, internet service and lunch for all participants.
 
-- **Can I enter the keynote sessions with the Hackathon pass?**
+### Can I enter the keynote sessions with the Hackathon pass?
 
   _**No.  The Hackathon Pass only gives access to the Hackathon event.**_
 
@@ -158,15 +158,15 @@ Members and composition of the _Hackathon Judging Panel_ will be announced befor
 
   _**Remember, if you don't bring your laptop you may not be allowed to participate.**_
 
-- **What if I only want to go and watch the hackers?**
+### What if I only want to go and watch the hackers?
 
   Seats, lunch and internet service are only available to registered participants.  Stay tuned for the internet live streaming details announcement.
 
-- **Is there going to be live streaming of the Tech Summit?**
+### Is there going to be live streaming of the Tech Summit?
 
   Yes.  Stay tuned for the internet live streaming details announcement.
 
-- **Can the press cover the Hackathon event?**
+### Can the press cover the Hackathon event?
 
   If you work for media, please contact the Tech Summit 2015 organizers:
 
