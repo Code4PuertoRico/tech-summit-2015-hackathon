@@ -14,43 +14,53 @@ Feel free to use software, data or hardware to design, develop and implement you
 
 #### 1. Be respectful and excellent to other hackers
 
-  This is, by all means, the most important rule you must abide.  We strive for the Tech Summit to be an inclusive and diverse environment.  Any misbehavior or action that belittles or degrades others will not be allowed, and the participant will be immediately disqualified and removed from the event.
+This is, by all means, the most important rule you must abide.  We strive for the Tech Summit to be an inclusive and diverse environment.  Any misbehavior or action that belittles or degrades others will not be allowed, and the participant will be immediately disqualified and removed from the event.
 
-  The Tech Summit Hackathon Organizing Committee has adopted the [Code for America's Code of Conduct](https://github.com/codeforamerica/codeofconduct#code-for-americas-code-of-conduct) and [Anti-Harrassment Policy](https://github.com/codeforamerica/codeofconduct#code-for-americas-anti-harassment-policy).  For more information, please click [here](https://github.com/codeforamerica/codeofconduct).
+The Tech Summit Hackathon Organizing Committee has adopted the [Code for America's Code of Conduct](https://github.com/codeforamerica/codeofconduct#code-for-americas-code-of-conduct) and [Anti-Harrassment Policy](https://github.com/codeforamerica/codeofconduct#code-for-americas-anti-harassment-policy).  For more information, please click [here](https://github.com/codeforamerica/codeofconduct).
 
 #### 2. Build something Here and New
 
-  All projects presented at the Tech Summit 2015 Hackathon must be developed during the event.
+All projects presented at the Tech Summit 2015 Hackathon must be developed during the event.
 
-  You are allowed to use frameworks, tools, APIs and open source libraries made available by the Tech Summit Organizing Committee or that have been available at least for a month.
+You are allowed to use frameworks, tools, APIs and open source libraries made available by the Tech Summit Organizing Committee or that have been available at least for a month.
 
-  Remember, this isn’t a Powerpoint-athon!  Don't show just screenshots and slides.
+Remember, this isn’t a Powerpoint-athon!  Don't show just screenshots and slides.
 
-  This is not the platform to launch your team's existing product.
+This is not the platform to launch your team's existing product.
 
 #### 3. Apply an open source license
 
-  Each project must select an approved open source license to participate at the Tech Summit 2015.  If a project does not specify a particular open source license, the [**MIT License**](http://choosealicense.com/licenses/mit/) will be assumed by default.
+Each project must select an approved open source license to participate at the Tech Summit 2015.  If a project does not specify a particular open source license, the [**MIT License**](http://choosealicense.com/licenses/mit/) will be assumed by default.
 
-  Projects that specify a non open source license will not be able to present a demo or compete for any categories and prizes at the Tech Summit 2015.
+Projects that specify a non open source license will not be able to present a demo or compete for any categories and prizes at the Tech Summit 2015.
 
-  _We suggest you read the ['But why OPEN?'](https://github.com/Code4PuertoRico/tech-summit-2015-hackathon#but-why-open) question in the FAQ section._
+_We suggest you read the ['But why OPEN?'](https://github.com/Code4PuertoRico/tech-summit-2015-hackathon#but-why-open) question in the FAQ section._
 
 #### 4. Use Github
 
-  As a best practice, you must use a version control software to track your code as you write it.
+As a best practice, you must use a version control software to track your code as you write it.
 
-  It is required that participants of the Tech Summit 2015 Hackathon use Git and Github as the platform to track, share and develop their projects.  All project's code, design, schematics and documentation must be forked by the [Commonwealth of Puerto Rico's Github account](https://github.com/commonwealth-of-puerto-rico) in order to present a demo and compete for any categories and prizes.
+It is required that participants of the Tech Summit 2015 Hackathon use Git and Github as the platform to track, share and develop their projects.  All project's code, design, schematics and documentation must be forked by the [Commonwealth of Puerto Rico's Github account](https://github.com/commonwealth-of-puerto-rico) in order to present a demo and compete for any categories and prizes.
 
-  Projects failing to be forked will not be able to present a demo or compete for any categories and prizes at the Tech Summit 2015.
+Projects failing to be forked will not be able to present a demo or compete for any categories and prizes at the Tech Summit 2015.
 
 #### 5. Code Audit
 
-  Finalists will have their project's source code audited to make sure it's new, legit and complies with the rules and guidelines.
+Finalists will have their project's source code audited to make sure it's new, legit and complies with the rules and guidelines.
 
 #### 6. Team size limit
 
-  The number of members per team is limited to 5.  A participant can only belong to one team.
+The number of members per team is limited to 5.  A participant can only belong to one team.
+
+#### 7. Have fun!
+
+Don't stop repeating this: _You are at the Hackathon to have fun!_
+
+Although there is an element of competition, the Tech Summit Hackathon is a place to experiment, learn new things, meet great people, and build (or break) things from scratch. Don't stress yourself too much, don't get upset if you can't make it, and never quit (even if you don't win).
+
+Just have a good time and put your best effort and skills towards your project.
+
+Remember, you are the the place where disruption and innovation is taking place in Puerto Rico! ;)
 
 ## Hackathon Tracks
 
