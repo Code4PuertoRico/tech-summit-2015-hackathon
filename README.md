@@ -45,9 +45,13 @@ The _Hackathon Evaluation Panel_ will be composed of 3 members which will be ann
 
 ## Hackathon Judging Panel
 
-The _Hackathon Judging Panel_ consist of speakers and guests invited to participate at the Tech Summit 2015.
+The _Hackathon Judging Panel_ will evaluate projects and decide which is the best on each of the specified tracks.  Any other prizes will be awarded by the Judging Panel and the Tech Summit Organizing Committee.
 
-Members and composition of the _Hackathon Judging Panel_ will be announced before the demo session begins.
+The _Hackathon Judging Panel_ will be composed of a Community Representative, a Government Representative and a Tech Summit 2015 Speaker.
+
+The Prizing Ceremony for the Tech Summit 2015 Hackathon will take place at a different date and venue.  Details on the final date and location will be properly announced via email, social networks and Challenge Post.
+
+Don't worry, you won't miss it!
 
 ## FAQ
 
@@ -182,7 +186,7 @@ Members and composition of the _Hackathon Judging Panel_ will be announced befor
 
 Copyright (c) 2015 Code 4 Puerto Rico.
 
-The _Tech Summit 2015 Hackathon Rules, Tracks and FAQ_ were developed by [Alberto Colón Viera](http://alberti.co), the [Code 4 Puerto Rico Core Team](http://code4puertorico.org) and the [Tech Summit Organizing Committee](http://techsummitpr.com).
+The _Tech Summit 2015 Hackathon Rules, Tracks and FAQ_ were developed by [Alberto A. Colón Viera](http://alberti.co), the [Code 4 Puerto Rico Core Team](http://code4puertorico.org) and the [Tech Summit Organizing Committee](http://techsummitpr.com).
 
 ![Creative Commons Attribution-ShareAlike 4.0 International License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
 
