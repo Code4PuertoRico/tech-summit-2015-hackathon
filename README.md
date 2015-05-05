@@ -28,7 +28,7 @@ Feel free to use software, data or hardware to design, develop and implement you
 
   This is not the platform to launch your team's existing product.
 
-#### 6. Apply an open source license
+#### 3. Apply an open source license
 
   Each project must select an approved open source license to participate at the Tech Summit 2015.  If a project does not specify a particular open source license, the [**MIT License**](http://choosealicense.com/licenses/mit/) will be assumed by default.
 
@@ -44,11 +44,11 @@ Feel free to use software, data or hardware to design, develop and implement you
 
   Projects failing to be forked will not be able to present a demo or compete for any categories and prizes at the Tech Summit 2015.
 
-#### 3. Code Audit
+#### 5. Code Audit
 
   Finalists will have their project's source code audited to make sure it's new, legit and complies with the rules and guidelines.
 
-#### 5. Team size limit
+#### 6. Team size limit
 
   The number of members per team is limited to 5.  A participant can only belong to one team.
 
