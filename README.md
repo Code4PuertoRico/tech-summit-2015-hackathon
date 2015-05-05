@@ -4,9 +4,9 @@
 
 The Tech Summit 2015 Hackathon promotes the design, development and prototyping of civic and business ideas.
 
-We encourage all projects to consider government (at all levels), citizens and civic organizations as their user/market base.
+We encourage all projects to consider government (at all levels), citizens and civic organizations as their user/market base.  Whether civic or not, try to think about your project idea with a venture and entrepreneur mindset.
 
-All projects are encouraged to use software or hardware to design, develop or implement their prototypes and ideas.
+Feel free to use software, data or hardware to design, develop and implement your prototype.
 
 All project's code, design, schematics and documentation must be forked by the Commonwealth of Puerto Rico Github account.  Each project must select an approved open source license to participate at the Tech Summit.  If a project does not specify a particular open source license, the MIT license will be assumed by default.  Projects failing to be forked or that specify a non open source license will not be able to present a demo or compete for any categories or prizes at the Tech Summit.
 
@@ -39,7 +39,7 @@ Projects and challenges are encouraged to be created with the following tracks a
 
 The _Hackathon Evaluation Panel_ consist of members designated by the Tech Summit 2015 Hackathon organizers that will evaluate projects for compliance with the event rules and guidelines.  Any decisions taken by the _Hackathon Evaluation Panel_ in regard to a project compliance are considered final and binding.
 
-The _Hackathon Evaluation Panel_ will be composed of 4 members, which will be announced before the Hackathon event begins.
+The _Hackathon Evaluation Panel_ will be composed of 3 members which will be announced before the Hackathon event begins.
 
 ## Hackathon Judging Panel
 
