@@ -1,5 +1,7 @@
 # Tech Summit 2015 Hackathon Rules & Tracks
 
+![](Tech-Summit-2015-Register-Now-700x760.jpg)
+
 ## General Rules
 
 The Tech Summit 2015 Hackathon promotes the design, development and prototyping of civic and business ideas.
