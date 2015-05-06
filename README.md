@@ -245,7 +245,7 @@ Yes.  Stay tuned for the live streaming details and announcement.
 
 ### Can the press cover the Hackathon event?
 
-If you work for media, please contact the Tech Summit 2015 organizers:
+If you work for media, please contact the Tech Summit 2015 media team:
 
   - Milestone Communications:  1-787-641-2164
   - Email:  info@techsummitpr.com
