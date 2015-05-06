@@ -10,6 +10,20 @@ We encourage all projects to consider government (at all levels), citizens and c
 
 Feel free to use software, data or hardware to design, develop and implement your prototype.
 
+### Registration
+
+In order to guarantee seats, internet service and lunch for all participants, registration for the Tech Summit 2015 Hackathon is managed via [EventBrite](https://www.eventbrite.com/e/tech-summit-2015-innovation-driven-hub-tickets-15734340837).
+
+EventBrite registration link: https://www.eventbrite.com/e/tech-summit-2015-innovation-driven-hub-tickets-15734340837
+
+Participants that do not register via [EventBrite](https://www.eventbrite.com/e/tech-summit-2015-innovation-driven-hub-tickets-15734340837) will not be allowed to participate.
+
+Hackathon challenges, projects, teams, submissions and issues are managed via the event's [Challenge Post page](http://techsummit2015.challengepost.com/).
+
+Projects, teams and submissions not managed via the [Challenge Post page](http://techsummit2015.challengepost.com/) will not be allowed to demo and compete for any categories and prizes.  That's the place where the Organizing Committee and the Evaluation and Judging Panels will be looking at your projects.
+
+Remember, all submissions must comply with the event's [Rules](#rules).
+
 ### Rules
 
 #### 1. Be respectful and excellent to other hackers
@@ -187,27 +201,29 @@ No worries, but your project will not be eligible to for the demo session nor be
 
 _**The only way to register for the Tech Summit 2015 Hackathon is via [EventBrite](https://www.eventbrite.com/e/tech-summit-2015-innovation-driven-hub-tickets-15734340837).**_
 
-EventBrite registration is required in order to guarantee seats, internet service and lunch for all participants.
+EventBrite registration link: https://www.eventbrite.com/e/tech-summit-2015-innovation-driven-hub-tickets-15734340837
+
+[EventBrite registration](https://www.eventbrite.com/e/tech-summit-2015-innovation-driven-hub-tickets-15734340837) is required in order to guarantee seats, internet service and lunch for all participants.
 
 ### Can I participate in the Tech Summit Hackathon if not registered via EventBrite?
 
-_**No.**_  EventBrite registration is required in order to guarantee seats, internet service and lunch for all participants.
+_**No.**_  [EventBrite registration](https://www.eventbrite.com/e/tech-summit-2015-innovation-driven-hub-tickets-15734340837) is required in order to guarantee seats, internet service and lunch for all participants.
 
 ### Can I participate in the Tech Summit Hackathon if I only registered in Challenge Post?
 
-_**No.**_  EventBrite registration is required in order to guarantee seats, internet service and lunch for all participants.
+_**No.**_  [EventBrite registration](https://www.eventbrite.com/e/tech-summit-2015-innovation-driven-hub-tickets-15734340837) is required in order to guarantee seats, internet service and lunch for all participants.
 
 Participants are required to have a [Challenge Post](http://techsummit2015.challengepost.com/) account in order to accept the hackathon rules and guidelines.  Projects and teams must be defined in the event's [Challenge Post page](http://techsummit2015.challengepost.com/).
 
 ### Must I pay in order to participate in the Hackathon?
 
-_**No.  Participation in the Tech Summit 2015 Hackathon is FREE.  Seats are limited and registration is required.**_
+_**No.  Participation in the Tech Summit 2015 Hackathon is FREE.  Seats are limited and [registration is required](https://www.eventbrite.com/e/tech-summit-2015-innovation-driven-hub-tickets-15734340837).**_
 
 ### Is there going to be lunch or snacks for the hackers?
 
 _**Yes.**_  Snacks and lunch will be available for all registered hackers, thanks to the Tech Summit 2015 sponsors.
 
-EventBrite registration is required in order to guarantee seats, internet service and lunch for all participants.
+[EventBrite registration](https://www.eventbrite.com/e/tech-summit-2015-innovation-driven-hub-tickets-15734340837) is required in order to guarantee seats, internet service and lunch for all participants.
 
 ### Can I enter the Plenary Session with the Hackathon pass?
 
