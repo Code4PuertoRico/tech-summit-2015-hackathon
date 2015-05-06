@@ -14,13 +14,14 @@ Feel free to use software, data or hardware to design, develop and implement you
 
 In order to guarantee seats, internet service and lunch for all participants, registration for the Tech Summit 2015 Hackathon is managed via [EventBrite](https://www.eventbrite.com/e/tech-summit-2015-innovation-driven-hub-tickets-15734340837).
 
-EventBrite registration link: https://www.eventbrite.com/e/tech-summit-2015-innovation-driven-hub-tickets-15734340837
+> **EventBrite registration link:**  
+> https://www.eventbrite.com/e/tech-summit-2015-innovation-driven-hub-tickets-15734340837
 
 Participants that do not register via [EventBrite](https://www.eventbrite.com/e/tech-summit-2015-innovation-driven-hub-tickets-15734340837) will not be allowed to participate.
 
 Hackathon challenges, projects, teams, submissions and issues are managed via the event's [Challenge Post page](http://techsummit2015.challengepost.com/).
 
-Projects, teams and submissions not managed via the [Challenge Post page](http://techsummit2015.challengepost.com/) will not be allowed to demo and compete for any categories and prizes.  That's the place where the Organizing Committee and the Evaluation and Judging Panels will be looking at your projects.
+Projects, teams and submissions not managed via the [Challenge Post page](http://techsummit2015.challengepost.com/) will not be able to present their demo and compete for any categories and prizes.  That's the place where the Organizing Committee and the Evaluation and Judging Panels will be looking at your projects.
 
 Remember, all submissions must comply with the event's [Rules](#rules).
 
@@ -201,7 +202,8 @@ No worries, but your project will not be eligible to for the demo session nor be
 
 _**The only way to register for the Tech Summit 2015 Hackathon is via [EventBrite](https://www.eventbrite.com/e/tech-summit-2015-innovation-driven-hub-tickets-15734340837).**_
 
-EventBrite registration link: https://www.eventbrite.com/e/tech-summit-2015-innovation-driven-hub-tickets-15734340837
+> **EventBrite registration link:**  
+> https://www.eventbrite.com/e/tech-summit-2015-innovation-driven-hub-tickets-15734340837
 
 [EventBrite registration](https://www.eventbrite.com/e/tech-summit-2015-innovation-driven-hub-tickets-15734340837) is required in order to guarantee seats, internet service and lunch for all participants.
 
