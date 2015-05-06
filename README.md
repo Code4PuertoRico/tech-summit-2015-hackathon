@@ -49,7 +49,7 @@ Each project must select an approved open source license to participate at the T
 
 Projects that specify a non open source license will not be able to present a demo or compete for any categories and prizes at the Tech Summit 2015.
 
-_We suggest you read the ['But why OPEN?'](https://github.com/Code4PuertoRico/tech-summit-2015-hackathon#but-why-open) question in the FAQ section._
+_We suggest you read the ['But why OPEN?'](#but-why-open) question in the FAQ section._
 
 #### 4. Use Github
 
