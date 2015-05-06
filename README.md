@@ -21,6 +21,9 @@ Participants that do not register via [EventBrite](https://www.eventbrite.com/e/
 
 Hackathon challenges, projects, teams, submissions and issues are managed via the event's [Challenge Post page](http://techsummit2015.challengepost.com/).
 
+> **Challenge Post:**  
+> http://techsummit2015.challengepost.com/
+
 Projects, teams and submissions not managed via the [Challenge Post page](http://techsummit2015.challengepost.com/) will not be able to present their demo and compete for any categories and prizes.  That's the place where the Organizing Committee and the Evaluation and Judging Panels will be looking at your projects.
 
 Remember, all submissions must comply with the event's [Rules](#rules).
