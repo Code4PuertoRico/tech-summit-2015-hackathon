@@ -17,7 +17,7 @@ In order to guarantee seats, internet service and lunch for all participants, re
 > **EventBrite:**  
 > https://www.eventbrite.com/e/tech-summit-2015-innovation-driven-hub-tickets-15734340837
 
-Participants that do not register via [EventBrite](https://www.eventbrite.com/e/tech-summit-2015-innovation-driven-hub-tickets-15734340837) will not be allowed to participate.
+Participants that do not register via [EventBrite](https://www.eventbrite.com/e/tech-summit-2015-innovation-driven-hub-tickets-15734340837) will not be able to participate.
 
 Hackathon challenges, projects, teams, submissions and issues are managed via the event's [Challenge Post page](http://techsummit2015.challengepost.com/).
 
